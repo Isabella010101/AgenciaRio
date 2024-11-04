@@ -5,7 +5,7 @@
 
 ## Página inicial 
 
-### A página inicial tem um título com animação e um uníco fundo para a página inteira, junto do cabeçalho e a logo.
+### A página inicial tem um título com animação e um único fundo para a página inteira, junto do cabeçalho e a logo.
 
 
 ## Rio de Janeiro
